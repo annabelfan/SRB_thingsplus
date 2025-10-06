@@ -2,7 +2,7 @@
   "name": "com.silicolabs.thingsplussubset",
   "displayName": "THINGS plus subset",
   "version": "1.0.0",
-  "unity": "60000.0.42f1",
+  "unity": "6000.0",
   "description": "The subset of THINGSplus CC0 images that start with the letter a.",
   "author": {
     "name": "Annabel Fan",
